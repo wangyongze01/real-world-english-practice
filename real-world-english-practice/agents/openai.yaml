@@ -1,0 +1,4 @@
+interface:
+  display_name: "Real-World English Practice"
+  short_description: "Practice English through realistic problem-solving role plays."
+  default_prompt: "Use $real-world-english-practice to run a realistic English role-play and correct my mistakes as we go."
