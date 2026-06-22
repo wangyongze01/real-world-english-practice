@@ -5,6 +5,8 @@
 ## 内容
 
 - `real-world-english-practice/`：Codex skill 目录，可复制到 `~/.codex/skills/` 使用。
+  - `SKILL.md`：核心训练流程、模式、纠错规则和复盘格式。
+  - `references/scenarios.md`：扩展场景库，供需要更多场景或挑战练习时使用。
 - `real-world-english-practice-usage.md`：日常使用说明和提示词模板。
 
 ## 安装
@@ -39,6 +41,18 @@ cp -R ./real-world-english-practice ~/.codex/skills/real-world-english-practice
 - Conditionals/subjunctive：虚拟语气 / 条件句
 - Tone and politeness：语气和礼貌
 - Fluency and structure：表达结构和流畅度
+- Pronunciation-oriented phrasing：口语节奏、分块和适合朗读的自然表达
+- Writing clarity：写作清晰度、语气和行动导向
+
+## 训练模式
+
+- Warm-up：3-5 轮热身，适合快速开口
+- Role-play：标准真实场景对话
+- Drill：围绕一个句型或语言点反复练
+- Rewrite：把一句话或一小段改得更自然
+- Writing：邮件、消息、投诉、面试 follow-up 等真实写作
+- Shadowing-style：给适合跟读的自然表达
+- Challenge：加入拒绝、误解、协商和时间压力
 
 ## 飞书文档
 

@@ -4,6 +4,8 @@
 
 - 场景：要解决什么实际问题
 - 训练焦点：这次重点练什么语言能力
+- 模式：角色扮演、专项句型、写作、改写、跟读风格或挑战
+- 纠错风格：轻纠错、平衡纠错、严格纠错或教练模式
 - 长度：短练习、标准练习或挑战练习
 
 ## 快速开始
@@ -14,6 +16,8 @@
 用 $real-world-english-practice 陪我练一个[场景]。
 我的水平是[初级/中级/高级]。
 本轮重点练[训练焦点]。
+使用[训练模式]。
+纠错风格是[轻纠错/平衡纠错/严格纠错/教练模式]。
 使用[短练习/标准练习/挑战练习]模式。
 练完后生成复盘，并归档到飞书文档：
 https://my.feishu.cn/docx/SpqLdhXe1o8TNYxqp5WcDTvbnkf
@@ -25,6 +29,8 @@ https://my.feishu.cn/docx/SpqLdhXe1o8TNYxqp5WcDTvbnkf
 用 $real-world-english-practice 陪我练一个酒店换房场景。
 我的水平是中级。
 本轮重点练时态。
+使用角色扮演模式。
+纠错风格是平衡纠错。
 使用标准练习模式。
 练完后生成复盘，并归档到飞书文档：
 https://my.feishu.cn/docx/SpqLdhXe1o8TNYxqp5WcDTvbnkf
@@ -43,6 +49,29 @@ https://my.feishu.cn/docx/SpqLdhXe1o8TNYxqp5WcDTvbnkf
 | Conditionals/subjunctive | 条件句、假设、委婉请求、虚拟语气 | 本轮重点练虚拟语气 |
 | Tone and politeness | 礼貌、商务语气、坚定但不冒犯 | 本轮重点练礼貌和语气 |
 | Fluency and structure | 组织表达、解释原因、总结、转折 | 本轮重点练表达结构 |
+| Pronunciation-oriented phrasing | 口语分块、重音、适合朗读的自然短句 | 本轮重点练口语节奏 |
+| Writing clarity | 写作清晰度、语气、结构和行动导向 | 本轮重点练写作清晰度 |
+
+## 训练模式
+
+| 模式 | 适合练什么 | 示例请求 |
+|---|---|---|
+| Warm-up | 3-5 轮快速开口 | 今天先做一个热身练习 |
+| Role-play | 标准真实场景对话 | 用角色扮演模式练酒店换房 |
+| Drill | 集中练一个句型或语言点 | 用 drill 模式练 polite requests |
+| Rewrite | 把句子或短消息改自然 | 帮我把这句话改得更自然 |
+| Writing | 邮件、消息、投诉、follow-up | 帮我写一封投诉邮件 |
+| Shadowing-style | 跟读、口语节奏、分块 | 给我适合跟读的自然表达 |
+| Challenge | 拒绝、误解、谈判、时间压力 | 用挑战模式练客服退款 |
+
+## 纠错风格
+
+| 风格 | 适合什么时候用 |
+|---|---|
+| 轻纠错 | 想保持开口流畅，不想被频繁打断 |
+| 平衡纠错 | 默认选择，每轮纠 1-3 个关键点 |
+| 严格纠错 | 想细抠语法、搭配、语气和结构 |
+| 教练模式 | 想知道规律，并马上做一个小练习巩固 |
 
 ## 练习长度
 
@@ -113,6 +142,26 @@ https://my.feishu.cn/docx/SpqLdhXe1o8TNYxqp5WcDTvbnkf
 标准练习 10 轮。
 ```
 
+### 6. 写作修改
+
+```text
+用 $real-world-english-practice 帮我改一封英文投诉邮件。
+我的水平是中级。
+本轮重点练 Writing clarity 和 Tone and politeness。
+纠错风格是教练模式。
+我会先发我的草稿，请先保留我的原意，再给我一个更自然、更礼貌但坚定的版本。
+```
+
+### 7. 句型专项 drill
+
+```text
+用 $real-world-english-practice 带我做一个 drill。
+我的水平是 B1。
+重点练 Would it be possible to...? 和 Is there any way you could...?
+场景围绕酒店、客服和工作沟通各来几轮。
+每次我回答后给一句更自然的版本。
+```
+
 ## 复盘会包含什么
 
 每次练完后，复盘建议包含：
@@ -122,6 +171,9 @@ https://my.feishu.cn/docx/SpqLdhXe1o8TNYxqp5WcDTvbnkf
 
 ### Goal
 本轮任务目标。
+
+### Profile
+水平、模式和纠错风格。
 
 ### Focus
 本轮训练焦点。
